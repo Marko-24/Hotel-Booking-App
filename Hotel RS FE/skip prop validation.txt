@@ -1,0 +1,3 @@
+vo fajlot .eslintrc.cjs pod rules da se vnese slednoto:
+
+'react/prop-types': 0,
